@@ -39,7 +39,6 @@ spec:
               subPath: config.yml
               readOnly: true
           ports:
-          ports:
             - name: api
               containerPort: 4000
             - name: dns
